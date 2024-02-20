@@ -14,8 +14,7 @@ let lastBalance;
 
 async function checkBalance() {
     const balance = ethers.getBigInt(await provider.getBalance(monitoredAddress));
-    const etherBalance = ethers.formatEther(balance);
-    console.log(typeof balance);
+    const etherBalance = ethers.formatEther(balance);    
     console.log(`ETH Balance of xxx: ${etherBalance} ETH`);
 
     // Ensure lastBalance is a BigNumber type, then compare it with the current balance
