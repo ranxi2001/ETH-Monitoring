@@ -1,7 +1,7 @@
 import { ethers } from "ethers";
 
 // 填上你的Alchemy API Key
-const ALCHEMY_ID = 'uVni5bHQKpTZq-uWrFcEQ0-d7lRnHY6Y' 
+const ALCHEMY_ID = '输入你的API Key' 
 const provider = new ethers.JsonRpcProvider(`https://eth-mainnet.g.alchemy.com/v2/${ALCHEMY_ID}`)
 
 // 你想要监控的以太坊地址
