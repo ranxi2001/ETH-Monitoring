@@ -16,6 +16,8 @@
 
 1. 修改监控地址、RPC的API、邮箱密码（`mailer.js` 和 `balance.js`）
 
+   免费API申请看这里：[WTF-Solidity/Topics/Tools/TOOL04_Alchemy/readme.md at main · AmazingAng/WTF-Solidity (github.com)](https://github.com/AmazingAng/WTF-Solidity/blob/main/Topics/Tools/TOOL04_Alchemy/readme.md)
+
 2. 安装 `node.js` 模块，运行代码
 
 ```shell

@@ -16,7 +16,9 @@ This project helps in such situations by monitoring the balance of the compromis
 
 1. Change the monitoring address, RPC API, email password (`mailer.js` and `balance.js`).
 
-2. Install the `node.js` module and run the code.
+   See here for free API application：[WTF-Solidity/Topics/Tools/TOOL04_Alchemy/readme.md at main · AmazingAng/WTF-Solidity (github.com)](https://github.com/AmazingAng/WTF-Solidity/blob/main/Topics/Tools/TOOL04_Alchemy/readme.md)
+
+1. Install the `node.js` module and run the code.
 
 ```shell
 npm install
