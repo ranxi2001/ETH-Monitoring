@@ -14,6 +14,10 @@ This project helps in such situations by monitoring the balance of the compromis
 
 ## Usage
 
+1. Change the monitoring address, RPC API, email password (`mailer.js` and `balance.js`).
+
+2. Install the `node.js` module and run the code.
+
 ```shell
 npm install
 node .\balance.js

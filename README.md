@@ -14,6 +14,10 @@
 
 ## 使用方法
 
+1. 修改监控地址、RPC的API、邮箱密码（`mailer.js` 和 `balance.js`）
+
+2. 安装 `node.js` 模块，运行代码
+
 ```shell
 npm install
 node .\balance.js

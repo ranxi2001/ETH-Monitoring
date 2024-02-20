@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "ethers": "^6.11.1"
+    "ethers": "^6.11.1",
+    "nodemailer": "^6.9.9"
   },
   "type": "module"
 }
