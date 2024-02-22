@@ -8,6 +8,6 @@
     "type": "git",
     "url": "git+https://github.com/ranxi2001/ETH-Monitoring.git"
   },
-  "name": "ETH-Monitoring",
+  "name": "eth-monitoring",
   "version": "1.0.0"
 }
