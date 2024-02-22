@@ -6,6 +6,8 @@
   "type": "module",
   "repository": {
     "type": "git",
-      "url": "git+https://github.com/ranxi2001/ETH-Monitoring"
-  }
+    "url": "git+https://github.com/ranxi2001/ETH-Monitoring.git"
+  },
+  "name": "ETH-Monitoring",
+  "version": "1.0.0"
 }
