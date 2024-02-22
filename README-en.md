@@ -22,7 +22,7 @@ This project helps in such situations by monitoring the balance of the compromis
 
 ```shell
 npm install
-node .\balance.js
+node .\index.js
 ```
 
 This project is intended for users who have a basic understanding of Ethereum and NFT markets. To use this project, you need to provide the address of the Ethereum wallet you want to monitor. You also need to set up a method for receiving notifications when the balance increases.

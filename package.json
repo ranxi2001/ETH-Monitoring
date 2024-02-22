@@ -3,5 +3,9 @@
     "ethers": "^6.11.1",
     "nodemailer": "^6.9.9"
   },
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+      "url": "git+剛才複製的網址"
+  }
 }

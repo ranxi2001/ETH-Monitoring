@@ -8,7 +8,7 @@ const transporter = nodemailer.createTransport({
     host: 'smtp.163.com',
     // 163邮箱的SMTP端口
     port: 465,
-    auth: {
+    auth: { 
         user: 'xxx@example.com', // 你的邮箱账号
         pass: 'xxxx' // 你的邮箱密码或应用密码
     }
